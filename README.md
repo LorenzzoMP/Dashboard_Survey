@@ -27,7 +27,7 @@ Siga os passos abaixo para executar a aplicação localmente.
 
 1.  **Clone o repositório para a sua máquina local:**
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO_AQUI>
+    git clone https://github.com/LorenzzoMP/Dashboard_Survey.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
